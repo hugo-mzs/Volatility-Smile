@@ -21,9 +21,9 @@ This Python project allows you to:
 
 ---
 ## User Guide : 
-Enter a company name: ex : Nvidia
-Enter the european option's expiration date (DD/MM/YYYY): ex : 14/06/2025
-✅ If the date entered is not among the expiry dates, the program will automatically be using the closest later expiry: ex :2025-06-20
+- Enter a company name: ex : Nvidia
+- Enter the european option's expiration date (DD/MM/YYYY): ex : 14/06/2025
+- ✅ If the date entered is not among the expiry dates, the program will automatically be using the closest later expiry: ex :2025-06-20
 
 ## 🛠️ Technologies Used
 
